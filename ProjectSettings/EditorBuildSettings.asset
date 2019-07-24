@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/start/Start.unity
+    guid: 1c45ded27407a4c41b1e9ba0cc41dcef
+  - enabled: 1
+    path: Assets/Interact/Interact.unity
+    guid: c8e5c399c29e34244a1bb863ffaca2ce
+  - enabled: 1
+    path: Assets/Interact/int.unity
+    guid: 67972111531fccc4d8b56bcf51a41072
+  - enabled: 1
+    path: Assets/Interact/int1.unity
+    guid: cb0612d45620de8438521296e1868d28
+  - enabled: 1
+    path: Assets/Interact/fight.unity
+    guid: aa511570fd796eb4588999d7039f9219
+  - enabled: 1
+    path: Assets/Interact/int2.unity
+    guid: 9ae0a7b959b13eb4e8b1ba08e9cf0ae7
+  - enabled: 1
+    path: Assets/Interact/int3.unity
+    guid: 58614d4bbc601af4da626ee814390ed8
+  - enabled: 1
+    path: Assets/Interact/int4.unity
+    guid: cf92927bc20aacc41b232f549a446dca
+  - enabled: 1
+    path: Assets/Interact/fight2.unity
+    guid: b94fdadad0c75f047877634c715b2ef0
+  - enabled: 1
+    path: Assets/Interact/fight3.unity
+    guid: 14fb20c3324ef334a830d2d1f49e43b1
+  - enabled: 1
+    path: Assets/Interact/int5.unity
+    guid: 836ed1c300972a442841fb77606f71de
+  - enabled: 1
+    path: Assets/Interact/fight4.unity
+    guid: e92117ca363be2941b6ee5e9c949370b
+  - enabled: 1
+    path: Assets/Interact/int6.unity
+    guid: 036f87e81e1d697458eb228e2b406d96
+  - enabled: 1
+    path: Assets/Interact/int9.unity
+    guid: 8d16590336fad4748825c25c07001a84
+  - enabled: 1
+    path: Assets/Interact/int10.unity
+    guid: 446173b9fce6bff42960318bd832c506
+  - enabled: 1
+    path: Assets/Interact/int11.unity
+    guid: f9ad2496a86aa8a468065f167f91bca4
+  - enabled: 1
+    path: Assets/Interact/fight5.unity
+    guid: 5cdc35151d83ab9459b1c62d83021657
+  - enabled: 1
+    path: Assets/Interact/int12.unity
+    guid: 886abe63808e9a34ca4d11e7aab15335
+  - enabled: 1
+    path: Assets/Interact/int13.unity
+    guid: 2cdc83578458ca749b19f4806dc3f3a9
+  - enabled: 1
+    path: Assets/Interact/int14.unity
+    guid: aaa6430a25a12ed4eb4244bd151ba10e
+  - enabled: 1
+    path: Assets/Interact/fight7.unity
+    guid: 423b9ae3c8a1d4e408c34338f403964d
+  - enabled: 1
+    path: Assets/Interact/int16.unity
+    guid: 69cf73e609d10e74b8f4cd677c5d6f95
+  - enabled: 1
+    path: Assets/Interact/int17.unity
+    guid: bd007e0ddccc5db4282bcfecc1a2b3e1
+  - enabled: 1
+    path: Assets/Interact/fight6.unity
+    guid: e8f337c48f072ac4cb168a97496818eb
+  - enabled: 1
+    path: Assets/Interact/int18.unity
+    guid: 27ffcbe3bbe101146bb578bd3d7c0da1
+  - enabled: 1
+    path: Assets/Interact/boss1.unity
+    guid: 7fecef524ae5f5a4997719afde49be7a
+  - enabled: 1
+    path: Assets/Interact/boss2.unity
+    guid: 7ab96f70d5ed8554f888204c78ecf69f
+  - enabled: 1
+    path: Assets/Interact/boss3.unity
+    guid: 4856a9f56041b1b43a4937cb1124ac58
+  - enabled: 1
+    path: "Assets/Interact/\u6311\u6218\u6A21\u5F0F.unity"
+    guid: 416525c17c25ba44f89d6595b2b4dd74
+  - enabled: 1
+    path: Assets/Interact/GAMEOVER.unity
+    guid: 4006d574966df064bbb78c7b844cd70b
+  - enabled: 1
+    path: Assets/Interact/clloction.unity
+    guid: ee4a50c0a68e0d243b13637df254a0af
